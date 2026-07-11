@@ -4,6 +4,20 @@
 
 A narrative-first EDA project that guides any reader — technical or not — through 1,460 house sales using animated Plotly charts, Seaborn heatmaps, and distribution plots. Structured as a six-act story.
 
+## Visual highlights
+
+**Act 1 — Missing values at a glance**
+![Missing value heatmap](outputs/figures/act1_missing_heatmap.png)
+
+**Act 3 — What actually correlates with price**
+![Correlation heatmap](outputs/figures/act3_correlation_heatmap.png)
+
+**Act 4 — Did 2008 leave a mark?**
+![Price over time](outputs/figures/act4_price_over_time.png)
+
+**Act 6 — The punchline**
+![Summary dashboard](outputs/figures/act6_summary_dashboard.png)
+
 ---
 
 ## What I found

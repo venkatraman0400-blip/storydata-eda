@@ -108,4 +108,4 @@ Plotly charts are saved to `outputs/figures/` as `.html` — open in any browser
 
 ## Author
 
-**[Your Name]** · [LinkedIn](https://linkedin.com) · [Kaggle](https://kaggle.com)
+**Venkatraman R** · [LinkedIn](https://linkedin.com/in/venkatraman0400) · [GitHub](https://github.com/venkatraman0400-blip)

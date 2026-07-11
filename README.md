@@ -9,11 +9,17 @@ A narrative-first EDA project that guides any reader — technical or not — th
 **Act 1 — Missing values at a glance**
 ![Missing value heatmap](outputs/figures/act1_missing_heatmap.png)
 
+**Act 2 — Distribution portraits**
+![Sale price distribution](outputs/figures/act2_saleprice_distribution.png)
+
 **Act 3 — What actually correlates with price**
 ![Correlation heatmap](outputs/figures/act3_correlation_heatmap.png)
 
 **Act 4 — Did 2008 leave a mark?**
 ![Price over time](outputs/figures/act4_price_over_time.png)
+
+**Act 5 — Which houses break the pattern**
+![Outlier scatter](outputs/figures/act5_outlier_scatter.png)
 
 **Act 6 — The punchline**
 ![Summary dashboard](outputs/figures/act6_summary_dashboard.png)
